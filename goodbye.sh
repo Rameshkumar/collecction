@@ -1,2 +1,1 @@
-<<<<<<< HEAD
 echo "goodbye"
